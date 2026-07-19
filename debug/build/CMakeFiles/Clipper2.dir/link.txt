@@ -1,0 +1,2 @@
+/usr/sbin/ar qc libClipper2.a CMakeFiles/Clipper2.dir/home/syndra/Clipper2/CPP/Clipper2Lib/src/clipper.engine.cpp.o CMakeFiles/Clipper2.dir/home/syndra/Clipper2/CPP/Clipper2Lib/src/clipper.offset.cpp.o CMakeFiles/Clipper2.dir/home/syndra/Clipper2/CPP/Clipper2Lib/src/clipper.rectclip.cpp.o CMakeFiles/Clipper2.dir/home/syndra/Clipper2/CPP/Clipper2Lib/src/clipper.triangulation.cpp.o
+/usr/sbin/ranlib libClipper2.a

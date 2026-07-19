@@ -1,0 +1,4 @@
+/home/syndra/Clipper2/debug/build/CMakeFiles/Clipper2.dir
+/home/syndra/Clipper2/debug/build/CMakeFiles/test.dir
+/home/syndra/Clipper2/debug/build/CMakeFiles/edit_cache.dir
+/home/syndra/Clipper2/debug/build/CMakeFiles/rebuild_cache.dir
